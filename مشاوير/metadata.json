@@ -1,0 +1,7 @@
+{
+  "name": "Town Delivery Egypt",
+  "description": "A comprehensive delivery platform for Egypt connecting customers, merchants, and couriers. Features RBAC, geolocation-based pricing, and Arabic support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
